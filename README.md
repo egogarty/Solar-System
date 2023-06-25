@@ -1,4 +1,6 @@
 # Solar-System
+See tutorial for code:
+https://pythongeeks.org/visualize-a-solar-system-with-python/
 This Python project aims to create a visual representation of the solar system, including the Sun and eight planets, including Earth. The project uses the Turtle Module and Math Module to create the planets and the sun, as well as to create orbits. The project requires basic knowledge of Python and its concepts.
 
 To visualize the solar system, the project follows the following steps:
@@ -11,5 +13,4 @@ To visualize the solar system, the project follows the following steps:
 6. Set the planets' angles using the planet.angle variable.
 
 The output of the project is displayed in the Python Solar System output. The project can be modified to add more planets or create a new solar system using the same technique.
-See tutorial for code:
-https://pythongeeks.org/visualize-a-solar-system-with-python/
+
